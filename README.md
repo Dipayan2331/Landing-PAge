@@ -1,5 +1,5 @@
 # LandingPage
-Octanet Webdevelopment internship
+Octanet Webdevelopment internship.
 
 #Jaya Travels
 
